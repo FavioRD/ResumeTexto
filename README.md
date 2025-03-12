@@ -48,13 +48,21 @@ python src/main.py
 📂 Estructura del Proyecto
 
 Generador-Resumenes/
+
 │── 📁 assets/               # Archivos adicionales (íconos, imágenes, etc.)
+
 │── 📁 src/                  # Código fuente del proyecto
+
 │   │── 📜 summarizer.py     # Módulo para generar resúmenes
+
 │   │── 📜 sentiment.py      # Módulo para el análisis de sentimientos
+
 │   │── 📜 pdf_exporter.py   # Módulo para exportar resúmenes a PDF
+
 │   └── 🚀 main.py           # Script principal
+
 │── 📄 requirements.txt      # Lista de dependencias
+
 └── 📖 README.md             # Documentación del proyecto
 
 🤝 Contribuciones
