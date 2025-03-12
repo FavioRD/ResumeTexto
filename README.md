@@ -8,8 +8,11 @@ Además, incluye un análisis de sentimiento del texto original.
 ✨ Características
 
 ✅ Generación de resúmenes a partir de un texto largo.
+
 ✅ Uso de Sumy para aplicar el algoritmo LSA.
+
 ✅ 📊 Análisis de sentimiento con TextBlob.
+
 ✅ 🖨️ Exportación del resumen en formato PDF con ReportLab.
 
 🚀 Instalación
@@ -17,11 +20,13 @@ Además, incluye un análisis de sentimiento del texto original.
 📥 Clonar el repositorio:
 
 git clone https://github.com/tuusuario/Generador-Resumenes.git
+
 cd Generador-Resumenes
 
 🏗️ Crear y activar un entorno virtual (opcional pero recomendado):
 
 python -m venv venv
+
 source venv/bin/activate  # En Windows: venv\Scripts\activate
 
 📦 Instalar dependencias:
@@ -31,6 +36,7 @@ pip install -r requirements.txt
 📌 Descargar los datos necesarios para NLTK:
 
 import nltk
+
 nltk.download('punkt')
 
 🛠️ Uso
@@ -55,4 +61,4 @@ Generador-Resumenes/
 
 ¡Las contribuciones son bienvenidas! Si deseas mejorar el proyecto, abre un issue o envía un pull request. 🚀
 
-📜 Licencia
+
