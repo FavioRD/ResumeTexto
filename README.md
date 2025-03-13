@@ -19,7 +19,7 @@ Además, incluye un análisis de sentimiento del texto original.
 
 📥 Clonar el repositorio:
 
-git clone https://github.com/tuusuario/Generador-Resumenes.git
+git clone https://github.com/FavioRD/ResumeTexto.git
 
 cd Generador-Resumenes
 
