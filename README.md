@@ -49,7 +49,7 @@ python src/main.py
 
 Generador-Resumenes/
 
-│── 📁 assets/               # Archivos adicionales (íconos, imágenes, etc.)
+│── 📁 assets/               # Archivos adicionales (íconos, imágenes, etc.) falta implementar ...
 
 │── 📁 src/                  # Código fuente del proyecto
 
